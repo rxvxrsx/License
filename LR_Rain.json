@@ -1,5 +1,8 @@
 {
-    "Product": "LR Rain", 
+    "Product": "Litmatch Rain", 
     "Version": "1.0.0",
-    "Dev": "CYFER"
+    "Dev": "CYFER",
+    "Contact": {
+        "Telegram": "https://t.me/cyfer_xk"
+    }
 }
